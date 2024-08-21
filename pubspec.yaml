@@ -38,6 +38,7 @@ dependencies:
   audio_manager: ^0.8.1
   percent_indicator: ^3.0.1
   flutter_audio_waveforms: ^1.2.1+8
+  simple_waveform_progressbar: ^0.0.3
 
 dev_dependencies:
   flutter_test:
