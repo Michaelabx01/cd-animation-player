@@ -1,4 +1,2 @@
 # cd_animation
-![cd_aniamtion](https://github.com/user-attachments/assets/b8985cdc-fbbd-4fd1-80dc-be7e4c236a9d)
-
-
+![music](https://github.com/user-attachments/assets/6817ecf7-386a-4351-9c6d-cfd66303907c)
